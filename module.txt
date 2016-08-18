@@ -1,0 +1,22 @@
+{
+    "id" : "MedievalCities",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "MedievalCities",
+    "description" : "",
+    "dependencies" : [
+        {
+            "id" : "StructureTemplates",
+            "minVersion" : "0.1.0-SNAPSHOT"
+        },
+        {
+            "id" : "StructuralResources",
+            "minVersion" : "0.2.1-SNAPSHOT"
+        },
+        {
+            "id" : "Fences",
+            "minVersion" : "0.1.1-SNAPSHOT"
+        }
+    ],
+    "serverSideOnly" : false
+}

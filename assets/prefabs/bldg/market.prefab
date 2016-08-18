@@ -1,0 +1,10 @@
+{
+  "GenericBuilding" : {
+    "name" : "Marketplace",
+    "templateNames" : ["MedievalCities:marketTemplate"],
+    "zone" : "COMMERCIAL",
+    "minSize" : [20, 17],
+    "maxSize" : [26, 26],
+    "isEntity" : true
+  }
+}

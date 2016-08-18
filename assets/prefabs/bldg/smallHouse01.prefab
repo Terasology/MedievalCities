@@ -1,0 +1,12 @@
+{
+  "GenericBuilding": {
+    "name": "House",
+    "templateNames": [
+      "MedievalCities:smallHouseTemplate01"
+    ],
+    "zone": "RESIDENTIAL",
+    "minSize": [ 9,  9],
+    "maxSize": [13, 13],
+    "isEntity": true
+  }
+}

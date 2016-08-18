@@ -1,0 +1,9 @@
+{
+  "Culture" : {
+    "name" : "Medieval Society",
+    "buildingNeedPerZone" : {"RESIDENTIAL" : 2, "COMMERCIAL" : 8},
+    "growthRate" : 900,
+    "availableBuildings" : ["Marketplace", "House"],
+    "residentialZones" : ["RESIDENTIAL"]
+  }
+}
