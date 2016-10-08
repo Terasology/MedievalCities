@@ -1,10 +1,14 @@
 {
     "id" : "MedievalCities",
     "version" : "0.1.0-SNAPSHOT",
-    "author" : "",
+    "author" : "skaldarnar",
     "displayName" : "MedievalCities",
-    "description" : "",
+    "description" : "Provides a Medieval era culture definition for a system like DynamicCities along with some extras.",
     "dependencies" : [
+        {
+            "id" : "DynamicCities",
+            "minVersion" : "0.2.0-SNAPSHOT"
+        },
         {
             "id" : "StructureTemplates",
             "minVersion" : "0.1.0-SNAPSHOT"
@@ -17,6 +21,9 @@
             "id" : "Fences",
             "minVersion" : "0.1.1-SNAPSHOT"
         }
+
     ],
-    "serverSideOnly" : false
+    "isGameplay" : "true",
+    "serverSideOnly" : false,
+    "defaultWorldGenerator" : "DynamicCities:DynamicCitiesPerlin"
 }
