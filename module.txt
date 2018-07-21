@@ -1,6 +1,6 @@
 {
     "id" : "MedievalCities",
-    "version" : "0.1.0-SNAPSHOT",
+    "version" : "0.1.1-SNAPSHOT",
     "author" : "skaldarnar",
     "displayName" : "MedievalCities",
     "description" : "Provides a Medieval era culture definition for a system like DynamicCities along with some extras.",
@@ -11,7 +11,7 @@
         },
         {
             "id" : "StructureTemplates",
-            "minVersion" : "0.2.0-SNAPSHOT"
+            "minVersion" : "0.3.0-SNAPSHOT"
         },
         {
             "id" : "StructuralResources",
