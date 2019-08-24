@@ -25,5 +25,5 @@
     ],
     "isGameplay" : "true",
     "serverSideOnly" : false,
-    "defaultWorldGenerator" : "DynamicCities:DynamicCitiesSimplex"
+    "defaultWorldGenerator" : "DynamicCities:DynamicCitiesPerlin"
 }
