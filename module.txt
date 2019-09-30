@@ -9,7 +9,6 @@
             "id" : "CoreBlocks",
             "minVersion" : "1.0.0-SNAPSHOT"
         },
-        }
         {
             "id" : "DynamicCities",
             "minVersion" : "0.2.0-SNAPSHOT"
