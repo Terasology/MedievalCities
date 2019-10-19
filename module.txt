@@ -19,7 +19,7 @@
         },
         {
             "id" : "StructuralResources",
-            "minVersion" : "1.0.0-SNAPSHOT"
+            "minVersion" : "2.0.0"
         },
         {
             "id" : "Fences",
