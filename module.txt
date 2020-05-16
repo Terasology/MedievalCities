@@ -1,33 +1,17 @@
 {
-    "id" : "MedievalCities",
-    "version" : "0.1.2-SNAPSHOT",
-    "author" : "skaldarnar",
-    "displayName" : "MedievalCities",
-    "description" : "Provides a Medieval era culture definition for a system like DynamicCities along with some extras.",
-    "dependencies" : [
-        {
-            "id" : "CoreBlocks",
-            "minVersion" : "1.0.0-SNAPSHOT"
-        },
-        {
-            "id" : "DynamicCities",
-            "minVersion" : "0.2.0-SNAPSHOT"
-        },
-        {
-            "id" : "StructureTemplates",
-            "minVersion" : "0.3.0-SNAPSHOT"
-        },
-        {
-            "id" : "StructuralResources",
-            "minVersion" : "2.0.0"
-        },
-        {
-            "id" : "Fences",
-            "minVersion" : "0.1.1-SNAPSHOT"
-        }
-
+    "id": "MedievalCities",
+    "version": "1.0.0",
+    "author": "skaldarnar",
+    "displayName": "MedievalCities",
+    "description": "Provides a Medieval era culture definition for a system like DynamicCities along with some extras.",
+    "dependencies": [
+        { "id": "CoreAdvancedAssets", "minVersion": "1.1.0" },
+        { "id": "CoreAssets", "minVersion": "2.0.1" },
+        { "id": "DynamicCities", "minVersion": "0.2.0" },
+        { "id": "Fences", "minVersion": "0.1.1" },
+        { "id": "StructureTemplates", "minVersion": "0.3.0" },
+        { "id": "StructuralResources", "minVersion": "2.0.0" }
     ],
-    "isGameplay" : "true",
-    "serverSideOnly" : false,
-    "defaultWorldGenerator" : "DynamicCities:DynamicCitiesPerlin"
+    "serverSideOnly": false,
+    "isAsset": true
 }
