@@ -13,5 +13,6 @@
         { "id": "StructuralResources", "minVersion": "2.1.0" }
     ],
     "serverSideOnly": false,
-    "isAsset": true
+    "isAsset": true,
+    "isWorld": true
 }
