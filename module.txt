@@ -2,7 +2,7 @@
     "id": "MedievalCities",
     "version": "1.0.0",
     "author": "skaldarnar",
-    "displayName": "MedievalCities",
+    "displayName": "Medieval Cities",
     "description": "Provides a Medieval era culture definition for a system like DynamicCities along with some extras.",
     "dependencies": [
         { "id": "CoreAdvancedAssets", "minVersion": "1.1.0" },
