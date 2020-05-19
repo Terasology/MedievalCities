@@ -7,10 +7,10 @@
     "dependencies": [
         { "id": "CoreAdvancedAssets", "minVersion": "1.1.0" },
         { "id": "CoreAssets", "minVersion": "2.0.1" },
-        { "id": "DynamicCities", "minVersion": "0.2.0" },
-        { "id": "Fences", "minVersion": "0.1.1" },
-        { "id": "StructureTemplates", "minVersion": "0.3.0" },
-        { "id": "StructuralResources", "minVersion": "2.0.0" }
+        { "id": "DynamicCities", "minVersion": "1.0.0" },
+        { "id": "Fences", "minVersion": "1.0.0" },
+        { "id": "StructureTemplates", "minVersion": "1.0.0" },
+        { "id": "StructuralResources", "minVersion": "2.1.0" }
     ],
     "serverSideOnly": false,
     "isAsset": true
