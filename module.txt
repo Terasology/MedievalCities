@@ -33,5 +33,5 @@
   "serverSideOnly": false,
   "isAsset": true,
   "isWorld": true,
-  "defaultWorldGenerator": "DynamicCities:DynamicCitiesPerlin"
+  "defaultWorldGenerator": "DynamicCities:DynamicCities"
 }
